@@ -3,3 +3,5 @@ __pycache__
 *.Identifier
 .venv/
 .venv/*
+/.venv/
+/.venv
